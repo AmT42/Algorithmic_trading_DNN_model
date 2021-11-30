@@ -1,2 +1,2 @@
 # Algorithmic_trading_DNN_model
- I built an class orientend algorithmic trading bot using a deep neuronal network to trade currency on OANDA
+I built a class-oriented algorithmic trading robot using a deep neural network to trade currencies on OANDA.com
